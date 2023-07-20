@@ -31,7 +31,7 @@
           },
           "configurations": {
             "production": {
-              "baseHref":"/practice-jenkins/"
+              "baseHref":"/practice-jenkins/",
               "budgets": [
                 {
                   "type": "initial",
